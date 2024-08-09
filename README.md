@@ -81,9 +81,9 @@ eigenlayer operator keys create --key-type ecdsa opr
 
 ### Optional: Import an old key
 
-> Replace `PRIVATEKEY` and Keyname "earlyogs" with any of your name
+> Replace `PRIVATEKEY` 
 ```console
-eigenlayer operator keys import --key-type ecdsa earlyogs PRIVATEKEY
+eigenlayer operator keys import --key-type ecdsa opr PRIVATEKEY
 ```
 > Enter a password and press Enter
 > 

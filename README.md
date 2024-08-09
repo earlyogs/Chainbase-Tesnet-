@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/user-attachments/assets/dd2a775b-29d0-4f60-a90b-083dd4381e29)
+![image](https://github.com/user-attachments/assets/e911dfb0-948a-4150-b7fc-5b613f1326e7)![Screenshot_1](https://github.com/user-attachments/assets/dd2a775b-29d0-4f60-a90b-083dd4381e29)
 
 # How to Setup an AVS Operator
 
@@ -363,7 +363,7 @@ https://forms.gle/w9h8Su87kEnDwRMA7
 ## 12. Post your Operator address in discord
 https://discord.gg/chainbase
 
-![Screenshot_159](https://github.com/user-attachments/assets/11d73cd4-84c1-4b9d-b6d3-9ec959653656)
+![Screenshot_159](https://github.com/earlyogs/images/blob/main/discord.jpg?raw=true)
 
 ## Here, you go earlyOgs, for more updates
 https://t.me/earlyogs

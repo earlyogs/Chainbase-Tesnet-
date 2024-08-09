@@ -130,7 +130,6 @@ nano operator.yaml
 
 ![Screenshot_158](https://github.com/earlyogs/images/blob/main/operator.yaml.jpg?raw=true)
 
-
 ## 7. Run Eigenlayer holesky Node
 ```console
 eigenlayer operator register operator.yaml

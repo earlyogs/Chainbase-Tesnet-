@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e911dfb0-948a-4150-b7fc-5b613f1326e7)![Screenshot_1](https://github.com/user-attachments/assets/dd2a775b-29d0-4f60-a90b-083dd4381e29)
+![image](https://github.com/user-attachments/assets/e911dfb0-948a-4150-b7fc-5b613f1326e7)![Screenshot_1]
 
 # How to Setup an AVS Operator
 

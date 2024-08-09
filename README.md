@@ -128,7 +128,7 @@ nano operator.yaml
 
 5- Add your metadata.json raw url in github in front of `metadata-url`
 
-![Screenshot_158](https://github.com/user-attachments/assets/af8a4fe3-a5fe-48ff-a198-7e3e808ff07d)
+![Screenshot_158](https://github.com/earlyogs/images/blob/main/operator.yaml.jpg?raw=true)
 
 
 ## 7. Run Eigenlayer holesky Node
